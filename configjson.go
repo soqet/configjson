@@ -1,3 +1,4 @@
+// Package configjson implements decoding of JSON-encoded file.
 package configjson
 
 import (
